@@ -18,14 +18,13 @@ async def _(event):
 
     animation_ttl = range(0, 103)
 
-    #input_str = event.pattern_match.group(1)
+    # input_str = event.pattern_match.group(1)
 
     # if input_str == "eye":
 
     await event.edit("👁👁")
 
     animation_chars = [
-
         "👁👁\n  👄  =====> Abey Ja Na sixer",
         "👁👁\n  👅  =====> Abey Ja Na Madarchod",
         "👁👁\n  💋  =====> Abey Ja Na Randi",
@@ -35,7 +34,7 @@ async def _(event):
         "👁👁\n  👄  =====> Abey Ja Na Randi",
         "👁👁\n  👅  =====> Abey Ja Na Bhosdk",
         "👁👁\n  💋  =====> Abey Ja Na Chutiye",
-        "👁👁\n  👄  =====> Hi All, How Are You Guys..."
+        "👁👁\n  👄  =====> Hi All, How Are You Guys...",
     ]
 
     for i in animation_ttl:
