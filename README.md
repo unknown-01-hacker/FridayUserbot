@@ -25,7 +25,7 @@ Best User Bot To Manage Your Telegram Account
 
 ### Host Friday In Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/unknown-01-hacker/FridayUserbot.git)
 ## Telegram-String
 
 [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://friday.starkgang.repl.run)
